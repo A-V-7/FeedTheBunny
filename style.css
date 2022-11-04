@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  background-image:url("./melon.png");
+  background-size:cover;
+  display:inline-block;
+  width:60px;
+  height:60px;
+  outline:none;
+  cursor:pointer;
+  border-radius:30px;
+  transition-duration: 0.4s;
+}
